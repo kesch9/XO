@@ -1,4 +1,4 @@
-package io.kesch.xo.exceptions;
+package io.kesch.xo.model.exceptions;
 
 public class AlreadyOccupiedException extends AbstractXOException {
 }

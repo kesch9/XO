@@ -1,7 +1,9 @@
-package io.kesch.xo;
+package io.kesch.xo.model;
 
-import io.kesch.xo.exceptions.AlreadyOccupiedException;
-import io.kesch.xo.exceptions.InvalidPointException;
+import io.kesch.xo.model.Field;
+import io.kesch.xo.model.Figure;
+import io.kesch.xo.model.exceptions.AlreadyOccupiedException;
+import io.kesch.xo.model.exceptions.InvalidPointException;
 import org.junit.Test;
 
 import java.awt.*;

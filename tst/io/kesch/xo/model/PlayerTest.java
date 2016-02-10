@@ -1,5 +1,7 @@
-package io.kesch.xo;
+package io.kesch.xo.model;
 
+import io.kesch.xo.model.Figure;
+import io.kesch.xo.model.Player;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

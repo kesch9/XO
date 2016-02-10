@@ -1,4 +1,4 @@
-package io.kesch.xo;
+package io.kesch.xo.model;
 
 public class Player {
 

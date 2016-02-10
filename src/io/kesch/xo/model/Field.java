@@ -1,7 +1,7 @@
-package io.kesch.xo;
+package io.kesch.xo.model;
 
-import io.kesch.xo.exceptions.AlreadyOccupiedException;
-import io.kesch.xo.exceptions.InvalidPointException;
+import io.kesch.xo.model.exceptions.AlreadyOccupiedException;
+import io.kesch.xo.model.exceptions.InvalidPointException;
 
 import java.awt.*;
 
